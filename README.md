@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m stduying at Bilkent University as a junior
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: instagram @arda_yukk
-- ⚡ Fun fact: I do karate
+-  I’m stduying at Bilkent University as a junior
+-  I'm working as a Java Developer
+-  How to reach me: email ardayuksel470@gmail.com
